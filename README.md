@@ -1,1 +1,1 @@
-# ilk-js-app
+Bu repo benim ilk repom.
